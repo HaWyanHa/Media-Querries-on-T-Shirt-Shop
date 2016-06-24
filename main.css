@@ -129,12 +129,12 @@
 		.price{
 			float: right;
 		}
-		@media screen and (min-width: 981px) and (max-width: 1115px) {
+		@media screen and (max-width: 1115px) {
 			* {
 				font-size: 25px;
 			}
 		}
-		@media screen and (min-width: 801px) and (max-width: 980px) {
+		@media screen and (max-width: 980px) {
 			* {
 				font-size: 20px;
 			}
@@ -144,7 +144,7 @@
 			.arrow-down {
 				right: 25%;
 		}
-		@media screen and (min-width: 501px) and (max-width: 800px) {
+		@media screen and (max-width: 800px) {
 			.container {
 				width: 30%;
 			}
