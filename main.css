@@ -37,6 +37,15 @@
 			font-size: .7em;
 			float: left;
 		}
+		.color2{
+			color: RGB(205, 129, 165);
+		}
+		.color3{
+			color: RGB(213, 173, 122);
+		}
+		.color4{
+			color: RGB(143, 185, 149);
+		}
 		.container {
 			width: 20%;
 			margin-right: 10px;
