@@ -121,16 +121,16 @@
 			display: block;
 		}
 		.red{
-		background-color: red;
+		background-color: #6FA5D3;
 		}
 		.blue{
-		background-color: blue;
+		background-color: RGB(205, 129, 165);
 		}
 		.green{
-		background-color: green;
+		background-color: RGB(213, 173, 122);
 		}
 		.yellow{
-		background-color: yellow;
+		background-color: RGB(143, 185, 149);
 		}
 		/*.swatch {
 			display: none;*/
