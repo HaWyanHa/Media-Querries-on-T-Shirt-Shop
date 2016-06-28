@@ -92,7 +92,7 @@
 			background-color: white;
 		}
 		.swatch{
-			padding: 13%;
+			padding: 20%;
 			margin-bottom: 100%;
 		}
 		.sizes li:hover{
@@ -142,6 +142,9 @@
 			* {
 				font-size: 25px;
 			}
+			.swatch{
+			padding: 1%;
+			}
 		}
 		@media screen and (max-width: 980px) {
 			* {
@@ -160,6 +163,9 @@
 			* {
 				font-size: 20px;
 			}
+			.swatch{
+			padding: 13%;
+			}
 			nav {
 			margin-top: -7px;
 			}
@@ -172,6 +178,9 @@
 			}
 			* {
 				font-size: 15px;
+			}
+			.swatch{
+			padding: 2%;
 			}
 			nav {
 			margin-top: -6px;
